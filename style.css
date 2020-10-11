@@ -1,0 +1,17 @@
+.box-1{
+    background-color: blueviolet;
+    height: 150px;
+    margin: 10px;
+}
+
+.box-2 {
+    background-color: skyblue;
+    height: 170px;
+    margin: 10px;
+}
+
+.box-3{
+    background-color: palegreen;
+    height: 170px;
+    margin: 10px;
+}
