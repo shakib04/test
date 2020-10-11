@@ -1,4 +1,4 @@
-.box-1{
+.box-1 {
     background-color: blueviolet;
     height: 150px;
     margin: 10px;
@@ -10,13 +10,17 @@
     margin: 10px;
 }
 
-.box-3{
+.box-3 {
     background-color: palegreen;
     height: 170px;
     margin: 10px;
 }
 
-.lorem{
+p {
+    text-align: justify;
+}
+
+.lorem {
     line-height: 1.5;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
